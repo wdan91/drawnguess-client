@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Draw and Guess</string>
+
+    <string name="fill_name">Please enter your name:</string>
+    <string name="play_with">Play with your friends</string>
+    <string name="enter_game">Enter game</string>
+
+    <string name="start_game">Start Game</string>
+
+    <string name="qrenter">Press Enter Game after you shared this QR code to your friends.</string>
+
+
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="send_message">Input message or answer</string>
+    <string name="read_qrcode">Scan qr code</string>
+    <string name="generate_qrcode">Generate QR code</string>
+
+    <string name="scan">Please scan</string>
+
+    <string name="introduction">Draw and Guess is an online multiplayer game of drawing and guessing. One person draws a randomly selected word (or phrase) and the rest try to guess it. </string>
+    <string name="qr_introduction">If you want to start a new game, press \"GENERATE QR CODE\" button. You can share the QR code with your friends and play together.
+    \n\n If your friend shared with you a QR code, press \"SCAN QR CODE\" button to join him!</string>
+
+
+    <string name="server_ip">http://130.211.254.53:5000</string>
+    <string name="room_id_api">/get_room_id</string>
+    <string name="puzzle_id_api">/get_puzzle</string>
+
+    <string name="hint">Hint:</string>
+    <string name="answer">Draw: </string>
+
+    <string name="waiting">Waiting for others ...</string>
+
+
+    <string name="exit_dialog_title">Warning</string>
+    <string name="exit_dialog_content">Are you going to quit this game?</string>
+    <string name="exit_dialog_yes">Yes</string>
+    <string name="exit_dialog_cancel">Cancel</string>
+
+    <string name="view_correct">\'ve guessed it!</string>
+
+    <string name="ready_info_draw">You are going to draw!</string>
+    <string name="ready_info_view">You are going to guess!</string>
+    <string name="finish_answer">Answer:\n</string>
+    <string name="correct_num">\nNumber of correct answers:\n</string>
+N
+    <string name="host_left">Room owner has left the room!</string>
+    <string name="sb_left">Someone has left. Game over.</string>
+
+
+</resources>
